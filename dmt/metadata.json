@@ -1,0 +1,6 @@
+{
+  "name": "DMT",
+  "description": "Data Migration Tracker for monitoring and managing complex enterprise data load cycles with interactive phase progression tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
